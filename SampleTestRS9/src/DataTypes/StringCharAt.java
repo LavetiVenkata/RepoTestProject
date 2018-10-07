@@ -4,7 +4,7 @@ public class StringCharAt {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String s= "GeeksforGeeks";
+		String s= "SeleniumAutomation";
 		
 		System.out.println("Character at 3rd position = " + s.charAt(3));
 		System.out.println("Character at 7rd position = " + s.charAt(7));
